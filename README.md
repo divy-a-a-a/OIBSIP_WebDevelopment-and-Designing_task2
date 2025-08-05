@@ -27,6 +27,6 @@ A live personal portfolio website reflecting professional identity and technical
 
 
 **GitHub Repository:**
-[https:/https://github.com/divy-a-a-a/OIBSIP_WebDevelopment-and-Designing_task2
+[https://github.com/divy-a-a-a/OIBSIP_WebDevelopment-and-Designing_task2
 
 ---
